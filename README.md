@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucaAvila123
 - 👀 I’m interested in learning about this world
-- 🌱 I’m currently learning C, Java and VHDL
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything people call me and I can help in
 - 📫 How to reach me: invite me to a code or something like that
 
